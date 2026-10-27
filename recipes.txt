@@ -1,3 +1,8 @@
-Chicken Biryani
-Chocolate Cake
-Pasta Alfredo
+Indain Recipes:
+               Chicken Biryani
+
+Italian Recipes:
+                Pasta Alfredo
+
+Deserts:
+                Chocolate Cake
